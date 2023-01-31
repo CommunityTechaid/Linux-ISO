@@ -1,0 +1,12 @@
+# Linux ISO
+CTA uses Linux Mint (Mate) as a base distro for machines that can't run Windows or MacOS. This repo contains instructions and example files to create the custon ISO / installer.
+
+## Basics
+get vanilla
+mount
+add / customise:
+- isolinux.cfg (tweak to include preseed file on boot)
+- lta.preseed (specify user details, etc)
+- /etc/skel (add shortcuts, PDFs to users desktops on user creation)
+fix manifests / packages?
+unmount

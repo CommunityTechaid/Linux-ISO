@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/home/user/.icons/feedback-icon.png
+Icon[en_GB]=firefox
+Name[en_GB]=Click here to give us feeback!
+Exec=firefox URL=https://ghjngk6ao4g.typeform.com/CTAfeedbackform
+Name=Please tell us how you're getting on with this computer!
